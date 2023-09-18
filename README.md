@@ -13,6 +13,8 @@
 - 📫 How to reach me **rayanekhamel711@gmail.com**
 - ⚡ Fun fact **teamwork ✌️**
 
+<p align="right"> 
+<img src="https://camo.githubusercontent.com/19cfd066a05906ee1de898327cc63b5bb84c6bd735182772630b8f75d93e581f/68747470733a2f2f746563686d616b6572732e746563682f77702d636f6e74656e742f7468656d65732f546563684d616b6572732d57502f6173736574732f696d672f6865726f2d696d672e706e67" width="450"  style="background-color: #f2e7ea;">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rima33333&color=ffadc1&style=flat" alt="rima33333">
 </p>
