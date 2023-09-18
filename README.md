@@ -3,7 +3,7 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" width="200">
 </p>
-<hr style="border: 1px solid #f2e7ea;">
+ 
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" align="right" alt="Techmakers" width="450" style="background-color: #f2e7ea;">
