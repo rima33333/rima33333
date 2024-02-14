@@ -10,7 +10,7 @@
 </p>
 
 - 💬 Ask me about **Website design and development**
-- 📫 How to reach me **rayanekhamel711@gmail.com**
+- 📫 How to reach me ** **
 - ⚡ Fun fact **teamwork ✌️**
 
 <p align="right"> 
